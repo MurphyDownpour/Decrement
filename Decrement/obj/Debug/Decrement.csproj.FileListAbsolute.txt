@@ -1,0 +1,6 @@
+c:\users\заур\documents\visual studio 2017\Projects\Decrement\Decrement\bin\Debug\Decrement.exe.config
+c:\users\заур\documents\visual studio 2017\Projects\Decrement\Decrement\bin\Debug\Decrement.exe
+c:\users\заур\documents\visual studio 2017\Projects\Decrement\Decrement\bin\Debug\Decrement.pdb
+c:\users\заур\documents\visual studio 2017\Projects\Decrement\Decrement\obj\Debug\Decrement.csprojResolveAssemblyReference.cache
+c:\users\заур\documents\visual studio 2017\Projects\Decrement\Decrement\obj\Debug\Decrement.exe
+c:\users\заур\documents\visual studio 2017\Projects\Decrement\Decrement\obj\Debug\Decrement.pdb
